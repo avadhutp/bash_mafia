@@ -1,3 +1,5 @@
+#A fast, performant config file for rTorrent (http://libtorrent.rakshasa.no/).
+
 #Folder to store session state
 session = ./.rTorrentSession
 
