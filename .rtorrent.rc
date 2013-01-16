@@ -1,9 +1,9 @@
-#A fast, performant config file for rTorrent (http://libtorrent.rakshasa.no/).
+# A fast, performant config file for rTorrent (http://libtorrent.rakshasa.no/).
 
-#PRE-REQUISITES:
-#1: Create a folder called ~/.rTorrentSession
+# PRE-REQUISITES:
+# 1: Create a folder called ~/.rTorrentSession
 
-#Folder to store session state
+# Folder to store session state
 session = ~/.rTorrentSession
 
 # Global upload and download rate in KiB. "0" for unlimited.
